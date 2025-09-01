@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>BCA Department Timetable</title> 
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f5f5f5; text-align: center; padding: 20px; }
+    h1 { color: #222; }
+    table { margin: auto; border-collapse: collapse; background: white; }
+    th, td { border: 1px solid #333; padding: 10px 15px; text-align: center; }
+    th { background-color: #ddd; }
+   
+  </style> 
+ </head> 
+ <body> 
+  <h1>BCA Department</h1> 
+  <h2>Semester Timetable</h2> 
+  <table> 
+   <tbody> 
+    <tr> 
+     <th>Day / Hour</th> 
+     <th>1</th> 
+     <th>2</th> 
+     <th>3</th> 
+     <th>4</th> 
+     <th>5</th> 
+    </tr> 
+    <tr> 
+     <th>Monday</th> 
+     <td class="english">English</td> 
+     <td class="ds-lab">Accounts</td> 
+     <td class="ecom">DS</td> 
+     <td class="tamil">ERP</td> 
+     <td class="ecom">Tamil</td> 
+    </tr> 
+    <tr> 
+     <th>Tuesday</th> 
+     <td class="ecom">ERP</td> 
+     <td class="ob">Accounts</td> 
+     <td class="english">English</td> 
+     <td class="ds">DS</td> 
+     <td class="tamil">Tamil</td> 
+    </tr> 
+    <tr> 
+     <th>Wednesday</th> 
+     <td class="nm">NM</td> 
+     <td class="ecom">DS</td> 
+     <td class="english">English</td> 
+     <td class="ds">Accounts</td> 
+     <td class="tamil">Tamil</td> 
+    </tr> 
+    <tr> 
+     <th>Thursday</th> 
+     <td class="ds">DS</td> 
+     <td class="ds">DS Lab</td> 
+     <td class="ds-lab"> DS Lab [R.P]</td> 
+     <td class="tamil">Tamil</td> 
+     <td class="english">English</td> 
+    </tr> 
+    <tr> 
+     <th>Friday</th> 
+     <td class="english">English</td> 
+     <td class="ds">DS Lab</td> 
+     <td class="ds-lab">DS Lab </td> 
+     <td class="ds-lab">DS</td> 
+     <td class="tamil">Tamil</td> 
+    </tr> 
+    <tr> 
+     <th>Saturday</th> 
+     <td class="nm">NM</td> 
+     <td class="evs">EVS</td> 
+     <td class="ds-lab">Accounts</td> 
+     <td class="tamil">Tamil</td> 
+     <td class="English">English</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <meta charset="utf-8"> 
+  <center> 
+   <title>Doraemon</title> 
+   <style>
+    body { text-align:center; font-family: Arial, sans-serif; background:#f7f7f7; padding:30px; }
+    img { width:320px; height:auto; display:block; margin:12px auto; }
+    p { line-height:1.5; max-width:640px; margin: 12px auto; text-align:left; }
+  </style> 
+   <h1>Doraemon</h1> 
+   <center> 
+    <p>   Doraemon is a blue robot cat from the 22nd century who travels back in time to help a lazy, clumsy boy named Nobita Nobi. He keeps an endless array of futuristic gadgets in a fourth-dimensional pocket on his stomach, which he uses to solve Nobita's problems, often leading to humorous adventures and valuable lessons for the characters. Despite being a robot, Doraemon possesses a kind heart and unwavering loyalty to Nobita, whose challenges include bullies, failed tests, and general misfortune. The popular Japanese manga and anime series, created by Fujiko Fujio, teaches important moral values about self-reliance and kindness to its viewers.</p> 
+   </center> <!-- direct link to the YouTube Shorts the user shared --> 
+   <p><a href="https://pin.it/5BtxSzWu1" target="_blank" rel="noopener">Open Doraemon Video (Shorts)</a></p> 
+  </center> 
+ </body>
+</html>
